@@ -10,4 +10,5 @@ App(
     fap_icon_assets="assets",
     fap_author="Henry Gurney",
     fap_description="A turn-based modular mech fighting game.",
+    fap_weburl="https://github.com/Atompunk78/IRONWYRM",
 )
