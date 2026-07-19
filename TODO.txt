@@ -1,2 +1,0 @@
-Make the big font bold
-Make it so when the enemy attacks, the 'standard steel plate' part switches to the name of the enemy's attacking plate
